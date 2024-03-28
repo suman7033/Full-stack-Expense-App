@@ -1,5 +1,5 @@
 const data=[{
-    "name":"suman"
+    // "name":"suman"
 }]
 
 module.exports=data;
